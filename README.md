@@ -1,1 +1,1 @@
-# NEAT-Tetris-Python
+# NEAT Tetris Python
