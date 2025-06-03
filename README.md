@@ -9,10 +9,10 @@ This project was developed to learn about creating game logic and to practice tr
  After training for 30 generations the best genome is saved as best.pickle. After testing, the genome was able to consistently clear 300 lines. Due to the randomness of pieces, the AI can sometimes face a series of difficult pieces that results in an early top-out. 
  
  ## Features
- - ** Visualized AI Training **
- - ** Visualized AI Testing **
- - ** Adjustable Parameters **
- - ** Functional Tetris Game with Line Clear Counter **
+ -  Visualized AI Training 
+ -  Visualized AI Testing 
+ -  Adjustable Parameters 
+ -  Functional Tetris Game with Line Clear Counter 
 
 ## Installation
 To use this project you will need to have python installed. It is recommended that you set up a virtual environment. After this you can clone the repository and install the dependencies using the requirements.txt file. After this you can run main.py
